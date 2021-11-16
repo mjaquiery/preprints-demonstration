@@ -29,7 +29,9 @@ dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
 
 ---
-Begin your workshop with an introduction to the concept of preprints, along with potential benefits and drawbacks.
+# Welcome to Preprints
+
+Preprints are a wonderful innovation in the field of scientific publishing. 
 
 ## What are preprints?
 
